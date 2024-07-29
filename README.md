@@ -62,3 +62,6 @@ Este proyecto esta hecho para implementar los siguientes conceptos:
 • El admin es el rol que más funciones posee con respecto a la manipulación de los usuarios. Puede ver todos los usuarios estén disponibles o no, buscar tanto por nombre como por ID, hacer bajas lógicas y físicas.
 
 • El rol cliente y vendedor podrán modificar su usuario.
+
+
+>El repo tiene pocos commits porque subi lo que tenia en un repositorio privado.
