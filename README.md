@@ -2,19 +2,33 @@
 Este es el back-end del Ecommerse, se debe levantar la solucion para poder consumir las API desde el Front en React que se encuentra en otro repositorio.
 
 Este proyecto esta hecho para implementar los siguientes conceptos:
+
 ✅ Clean Code Architecture.
+
 ✅ ORM: Entity Framework.
+
 ✅ Base de datos con SQL.
+
 ✅ APIs.
+
 ✅ Inyección de dependencias.
+
 ✅ Patrón repositorio.
+
 ✅ Tipo de dato generico.
+
 ✅ Autenticacion con Json Web Token.
+
 ✅ Envio de Mails utilizando paquetes de terceros.
+
 ✅ Lenguaje unificado de modelado (UML).
+
 ✅ Políticas de permisos.
+
 ✅ Manejo de errores con excepciones.
+
 ✅ Uso de DTOs.
+
 ✅ POO.
 
 # Reglas de negocio
