@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1OouD8LAEeJVISCOKMm8imFcgCxYN35lU0UZ2f/HBMSqX/cKsna6gN1m+qVCC6LyV8tXoLi2HW0u/4j5RfPDhg==",
+  "dgSpecHash": "LRF05ShLB7LOgw1EDfhaSYmd2pHcH1OAvynZr6++Po9tb08ehxPGzSIKF3MEUes4hJZYi51OtMFN2zlOOL69YA==",
   "success": true,
-  "projectFilePath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alerc\\.nuget\\packages\\servicestack.interfaces\\8.2.2\\servicestack.interfaces.8.2.2.nupkg.sha512"
   ],

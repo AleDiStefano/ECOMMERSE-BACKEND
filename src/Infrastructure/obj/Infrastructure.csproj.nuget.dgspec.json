@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj": {
+    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\obj\\",
+        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\Domain.csproj"
+              "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -64,18 +64,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\Domain.csproj": {
+    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,18 +130,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-        "outputPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,8 +158,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj": {
-                "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj"
+              "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj"
               }
             }
           }
@@ -232,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

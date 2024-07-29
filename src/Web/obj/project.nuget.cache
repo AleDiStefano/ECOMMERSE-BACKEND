@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oVwAIe2UzTgxMN5wMGavBeYtAE36OXCoWy3sBCfyMvGLfcb6ix3qntgmtFE47sx43WIDZ7DcG1xZh9u82cLpmg==",
+  "dgSpecHash": "PJMs3buAz44v4Iwf3cHZB6WP6KzndWfQJ4vkHudJXV8j4y+anYbK+8zB0EeMpLtwuH0CaQf0KuUBq3fqvPKmzg==",
   "success": true,
-  "projectFilePath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alerc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\alerc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

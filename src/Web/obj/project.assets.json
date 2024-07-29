@@ -4868,11 +4868,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
       "projectName": "Ecommerce.Web",
-      "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\alerc\\.nuget\\packages\\",
-      "outputPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Web\\obj\\",
+      "outputPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alerc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4889,11 +4889,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj": {
-              "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Application\\Application.csproj"
+            "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Application\\Application.csproj"
             },
-            "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -4947,7 +4947,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

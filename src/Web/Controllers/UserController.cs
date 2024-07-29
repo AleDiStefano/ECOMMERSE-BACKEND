@@ -21,7 +21,6 @@ namespace Web.Controllers
             _userService = userService;
         }
 
-
         [HttpGet]
         [Authorize]
         [Authorize(Policy = "AdminPolicy")]
