@@ -69,8 +69,7 @@
               "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Web.csproj",
               "RelativeToolTip": "Web\\Web.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-29T15:16:20.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-29T15:16:20.265Z"
             },
             {
               "$type": "Document",
@@ -140,7 +139,7 @@
               "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\alerc\\Desktop\\back2\\ECOMMERSE-BACKEND\\src\\Web\\Controllers\\UserController.cs",
               "RelativeToolTip": "Web\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA3AAAA",
+              "ViewState": "AQIAAG8AAAAAAAAAAADwv5QAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T22:09:23.599Z",
               "EditorCaption": ""
@@ -155,8 +154,7 @@
               "RelativeToolTip": "Web\\Controllers\\OrderController.cs",
               "ViewState": "AQIAAEEAAAAAAAAAAAAIwEAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T22:09:16.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-22T22:09:16.551Z"
             }
           ]
         },
