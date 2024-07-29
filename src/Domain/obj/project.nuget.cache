@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4E7pQTmnROIbDctoK2HBPgQEFcXk1mGp85PEGHvNmwgmEQ6+6v+ye6bD6a7kaJXzRd5+yD3WbfDwYnzWvTA4VQ==",
+  "success": true,
+  "projectFilePath": "C:\\SourceCode\\ult prog 3\\Programacion-3-TPI\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alerc\\.nuget\\packages\\servicestack.interfaces\\8.2.2\\servicestack.interfaces.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
